@@ -15,7 +15,6 @@
       <li>👩‍💻 Most of my projects available in github</li>
       <li>😁 Fun fact: To learn everything is entertament for me :)</li>
     </ul>
-
 <!---
 imsrdev/imsrdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
